@@ -7,4 +7,4 @@ def main():
     print("Hello, " + name + "! Welcome to our app.")
 
 if __name__ == "__main__":
-    main()
+    mai

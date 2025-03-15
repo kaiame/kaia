@@ -80,3 +80,4 @@ pub enum CustomError {
     #[msg("You have already voted on this proposal.")]
     AlreadyVoted,
 }
+3579
